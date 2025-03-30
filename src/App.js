@@ -90,7 +90,7 @@ function App() {
         <button onClick={() => play("rock")}>바위</button>
         <button onClick={() => play("paper")}>보</button>
       </div>
-      <h3>추가했다 이부분</h3>
+      <h3>추가했다 이부분(git 최초 사용 실습)</h3>
 
     </div>
   );
