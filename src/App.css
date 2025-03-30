@@ -1,0 +1,29 @@
+.box{
+  border: 5px solid black;
+  width: 500px;
+}
+
+.win{
+  border: 5px solid red;
+  width: 500px;
+}
+
+.lose{
+  border: 5px solid blue;
+  width: 500px;
+}
+
+.tie{
+  border: 5px solid black;
+  color: black;
+  width: 500px;
+}
+
+.item-img{
+  width: 400px;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+}
