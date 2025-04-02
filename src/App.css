@@ -1,6 +1,7 @@
 .box{
   border: 5px solid black;
   width: 500px;
+
 }
 
 .win{
@@ -21,6 +22,7 @@
 
 .item-img{
   width: 400px;
+  height: 400px;
 }
 
 .main{
